@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "takent-desktop-app (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "takent-desktop-app (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
